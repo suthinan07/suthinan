@@ -7,13 +7,13 @@ col1, col2, col3, = st.columns(3)
 
 with col1:
     st.header("Versicolor")
-    st.image("https://en.wikipedia.org/wiki/Iris_versicolor#/media/File:Blue_Flag,_Ottawa.jpg")
+    st.image("./image2/Versicolor.jpg")
 
 with col2:
     st.header("Verginica")
-    st.image("https://en.wikipedia.org/wiki/Iris_virginica#/media/File:Iris_virginica_2.jpg") 
+    st.image("./image2/virginica.jpg") 
 
 with col3:
     st.header("Setosa")
-    st.image("https://en.wikipedia.org/wiki/Iris_setosa#/media/File:Irissetosa1.jpg")
+    st.image("./image2/setosa.jpg")
 
