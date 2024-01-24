@@ -16,4 +16,4 @@ with col2:
 with col3:
     st.header("Setosa")
     st.image("./image2/setosa.jpg")
-
+.
